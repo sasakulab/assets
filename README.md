@@ -14,7 +14,7 @@ Sasakulab が管理する画像を列挙します。主にアイコン画像で�
 
 Thanks: [徒手空拳](https://twitter.com/1haven0th1ng), [yude](https://twitter.com/yude_jp) 
 
-<img src="/img/kurari/icons/284x284.png" width="256px">
+<img src="/img/kurari/icons/284x284.PNG" width="256px">
 
 ### パンダ
 
